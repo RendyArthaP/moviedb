@@ -7,19 +7,19 @@ module.exports = {
       "white": "#F4F4F4",
       "orange": "#FF7314",
       "blackLight": "#393534",
-      "black": "22211f"
+      "black": "#22211F"
     }),
     textColor: {
       "white": "#F4F4F4",
       "orange": "#FF7314",
       "blackLight": "#393534",
-      "black": "22211f"
+      "black": "#22211F"
     },
     borderColor: theme => ({
       "white": "#F4F4F4",
       "orange": "#FF7314",
       "blackLight": "#393534",
-      "black": "22211f"
+      "black": "#22211F"
     })
   },
   variants: {
